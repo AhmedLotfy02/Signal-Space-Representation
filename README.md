@@ -14,31 +14,28 @@ Table of contents:
 
 
 Figure 1 Φ1 VS time after using the GM_Bases function
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/a17fa54d-7cdc-4bab-9222-e18b5c056a64)
+ <img src="/screenshots/Picture1.jpg">
 
 Figure 2 Φ2 VS time after using the GM_Bases function
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/e391f550-3eeb-46f3-b711-a52eb8392312)
+<img src="/screenshots/Picture2.jpg">
 
 <h2>Signal Space Representation</h2>
 
 Figure 3 Signal Space representation of signals s1,s2
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/bd86444a-f49a-40f7-97c2-c14d131f0612)
+<img src="/screenshots/Picture3.jpg">
 
 
 <h2>Signal Space Representation with adding AWGN</h2>
 <h3>Case 1:  10 log(E/σ^2)  = 10 dB</h3>
-
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/b3a81cde-f0d3-4b6b-9b96-56f4c86420f0)
+<img src="/screenshots/Picture4.jpg">
 
 
 <h3>Case 2:  10 log(E/σ^2) = 0 dB</h3>
-
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/73011401-bef3-4a36-8d35-ee2e5de95dc9)
+<img src="/screenshots/Picture5.jpg">
 
 
 <h3>Case 3:  10 log(E/σ^2) = -5 dB</h3>
-
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/12b78471-6f82-4a35-b76b-6ad450db0fae)
+<img src="/screenshots/Picture6.jpg">
 
 
 <h2>Noise Effect on Signal Space</h2>
