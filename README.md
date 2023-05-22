@@ -32,9 +32,14 @@ Figure 3 Signal Space representation of signals s1,s2
 
 
 <h3>Case 2:  10 log(E/σ^2) = 0 dB</h3>
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/61b6efd8-c003-4cbf-975c-438b351445f5)
+
+![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/73011401-bef3-4a36-8d35-ee2e5de95dc9)
+
+
 <h3>Case 3:  10 log(E/σ^2) = -5 dB</h3>
-![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/d053881b-4f47-4f22-a778-c8d1a8bf264d)
+
+![image](https://github.com/AhmedLotfy02/Signal-Space-Representation/assets/76037906/12b78471-6f82-4a35-b76b-6ad450db0fae)
+
 
 <h2>Noise Effect on Signal Space</h2>
 -As the variance (σ^2) of the additive white Gaussian noise increases, the spread of the signal points in the signal space representation also increases. The noise introduces uncertainty and randomness in the received signals, causing the signal points to scatter and deviate from their original positions. Consequently, the accuracy of the signal space representation decreases as the noise effect increases.
